@@ -1,4 +1,4 @@
-# Generating-Cats-with-WGAN_GP
+# Generating Cats using WGAN_GP
 This is a Pytorch implementation of Wasserstein GANs with gradient penalty.<br>
 Link to the paper is : https://arxiv.org/pdf/1704.00028.pdf
 
